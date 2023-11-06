@@ -1,3 +1,3 @@
 # Blog-1-test
 
-test for understanding and practicing basic html, css and JavaScript
+test for understanding and practice basic html, css and JavaScript
